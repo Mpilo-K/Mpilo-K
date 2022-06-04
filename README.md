@@ -1,7 +1,8 @@
 # Hi there, I'm [Mpilo Khumalo][website] 👋
 
-- I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University --- 🌱🌳🎓
-- Although I am a Scientist, I do a lot of programming and a mix of hardware and software programming --- 🔧💻💹
+- I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University --- 🌱🌳👨‍🎓
+- Although I am a Scientist, I do a lot of hardware and software programming --- 🛠️💻📊
+- I love learning and teaching skills --- 📖👨‍🏫
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://mpilokhumalo.com#gh-light-mode-only)
