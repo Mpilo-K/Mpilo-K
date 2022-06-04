@@ -5,15 +5,12 @@
 - I love learning and teaching skills --- 📖👨‍🏫
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://mpilokhumalo.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://mpilokhumalo.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mpilokhumalo1st#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mpilokhumalo1st#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mpilo-khumalo-b45786119#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mpilo-khumalo-b45786119#gh-dark-mode-only)
-
+<a href="https://twitter.com/mpilokhumalo1st">
+  <img align="left" alt="Mpilo Khumalo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mpilo-khumalo-b45786119/">
+  <img align="left" alt="Mpilo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
@@ -25,7 +22,7 @@
 ![MicrosoftOffice](https://img.shields.io/badge/-MicrosoftOffice-000?&logo=MicrosoftOffice)
 ![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
-
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
