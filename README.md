@@ -6,8 +6,6 @@
 - I love learning and teaching skills ... 📖👨‍🏫
 
 <br />
----
-<br />
 
 ### Connect with me:
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
@@ -15,8 +13,6 @@
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
 
-<br />
----
 <br />
 
 ### Languages and Tools:
