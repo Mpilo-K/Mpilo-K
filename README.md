@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools I use:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
