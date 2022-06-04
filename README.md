@@ -4,18 +4,20 @@
 - Although I am a Scientist, I do a lot of programming and a mix of hardware and software programming 
 
 ### Connect with me:
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[!twitter(./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[!linkedin(./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 
 ### Languages and Tools:
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![LATEX](https://img.shields.io/badge/-LATEX-000?&logo=LATEX)
 
 
 
