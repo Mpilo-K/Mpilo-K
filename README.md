@@ -9,6 +9,7 @@
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
 
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
