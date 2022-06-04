@@ -26,10 +26,11 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![MicrosoftOffice](https://img.shields.io/badge/-MicrosoftOffice-000?&logo=MicrosoftOffice)
+![MicrosoftExcel](https://img.shields.io/badge/-MicrosoftExcel-000?&logo=MicrosoftExcel)
 ![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
