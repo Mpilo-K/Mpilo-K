@@ -16,14 +16,14 @@
 
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
-![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLITE-000?&logo=SQLite)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![MICROSOFT OFFICE](https://img.shields.io/badge/-MICROSOFT OFFICE-000?&logo=MICROSOFT OFFICE)
+![MICROSOFTOFFICE](https://img.shields.io/badge/-MICROSOFTOFFICE-000?&logo=MICROSOFTOFFICE)
 ![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
-![POWER BI](https://img.shields.io/badge/-POWER BI-000?&logo=POWER BI)
+![POWERBI](https://img.shields.io/badge/-POWERBI-000?&logo=POWERBI)
 
 
 [website]: https://mpilokhumalo.com
