@@ -1,7 +1,7 @@
 # Hi there, I'm [Mpilo Khumalo][website] 👋
 
-- 🌱🌳🎓 I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University
-- Although I am a Scientist, I do a lot of programming and a mix of hardware and software programming 
+- I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University --- 🌱🌳🎓
+- Although I am a Scientist, I do a lot of programming and a mix of hardware and software programming --- 🔧💻💹
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://mpilokhumalo.com#gh-light-mode-only)
@@ -21,9 +21,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![MICROSOFTOFFICE](https://img.shields.io/badge/-MICROSOFTOFFICE-000?&logo=MICROSOFTOFFICE)
+![MicrosoftOffice](https://img.shields.io/badge/-MicrosoftOffice-000?&logo=MicrosoftOffice)
 ![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
-![POWERBI](https://img.shields.io/badge/-POWERBI-000?&logo=POWERBI)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 
 [website]: https://mpilokhumalo.com
