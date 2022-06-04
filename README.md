@@ -10,7 +10,9 @@
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
-
+<br />
+<br />
+---
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
