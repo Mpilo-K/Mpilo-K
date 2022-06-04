@@ -1,5 +1,6 @@
 # Hi there, I'm [Mpilo Khumalo][website] 👋
 
+### About me:
 - I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University --- 🌱🌳👨‍🎓
 - Although I am a Scientist, I do a lot of hardware and software programming --- 🛠️💻📊
 - I love learning and teaching skills --- 📖👨‍🏫
@@ -9,7 +10,6 @@
 ---
 
 ### Connect with me:
-
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
