@@ -17,9 +17,13 @@
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQLITE](https://img.shields.io/badge/-SQLITE-000?&logo=SQLITE)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![LATEX](https://img.shields.io/badge/-LATEX-000?&logo=LATEX)
-
+![NETLIFY](https://img.shields.io/badge/-NETLIFY-000?&logo=NETLIFY)
+![MICROSOFT OFFICE](https://img.shields.io/badge/-MICROSOFT OFFICE-000?&logo=MICROSOFT OFFICE)
+![JULIA](https://img.shields.io/badge/-JULIA-000?&logo=JULIA)
+![POWER BI](https://img.shields.io/badge/-POWER BI-000?&logo=POWER BI)
 
 
 [website]: https://mpilokhumalo.com
