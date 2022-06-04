@@ -16,13 +16,13 @@
 
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SQLITE](https://img.shields.io/badge/-SQLITE-000?&logo=SQLITE)
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLITE-000?&logo=SQLite)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![LATEX](https://img.shields.io/badge/-LATEX-000?&logo=LATEX)
-![NETLIFY](https://img.shields.io/badge/-NETLIFY-000?&logo=NETLIFY)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![MICROSOFT OFFICE](https://img.shields.io/badge/-MICROSOFT OFFICE-000?&logo=MICROSOFT OFFICE)
-![JULIA](https://img.shields.io/badge/-JULIA-000?&logo=JULIA)
+![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
 ![POWER BI](https://img.shields.io/badge/-POWER BI-000?&logo=POWER BI)
 
 
