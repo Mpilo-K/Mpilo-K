@@ -1,4 +1,4 @@
-# Hi there, I'm [Mpilo Khumalo][website] 👋😃 
+# Hi there, I'm [Mpilo Khumalo][website] 👋
 
 - 🌱🌳🎓 I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University
 - Although I am a Scientist, I do a lot of programming and a mix of hardware and software programming 
@@ -14,11 +14,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-<br />
-<br />
+
 
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
