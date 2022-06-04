@@ -5,12 +5,10 @@
 - I love learning and teaching skills --- 📖👨‍🏫
 
 ### Connect with me:
-<a href="https://twitter.com/mpilokhumalo1st">
-  <img align="left" alt="Mpilo Khumalo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mpilo-khumalo-b45786119/">
-  <img align="left" alt="Mpilo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+[<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 ### Languages and Tools:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
@@ -27,3 +25,4 @@
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
 [linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
+[gmail]: mailto:mpilozenzele0@gmail.com
