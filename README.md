@@ -31,6 +31,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 ![ImageJ](https://img.shields.io/badge/-ImageJ-000?&logo=ImageJ)
 
+## Here are some Data Science/Analytics/Engineering Projects that I have made public:
+1. [Analysis of Covid-19 Data in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
+2. [Analysing South Africa's matric pass rates](https://github.com/Mpilo-K/matric_south_africa)
 
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
