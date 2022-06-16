@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## My Public Data Science Projects:
+### My Public Data Science Projects:
 - [Analysis of Covid-19 Data in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
 - [Analysing South Africa's matric pass rates](https://github.com/Mpilo-K/matric_south_africa)
 
