@@ -21,7 +21,6 @@
 - [Analysing South Africa's matric pass rates](https://github.com/Mpilo-K/matric_south_africa)
 
 <br>
-<br>
 
 ### Languages and Tools I use:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
