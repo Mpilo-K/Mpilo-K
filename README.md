@@ -38,6 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 ![ImageJ](https://img.shields.io/badge/-ImageJ-000?&logo=ImageJ)
+![QGIS](https://img.shields.io/badge/-QGIS-000?&logo=QGIS)
 
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
