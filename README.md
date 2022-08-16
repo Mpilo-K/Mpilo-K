@@ -17,10 +17,10 @@
 <br />
 
 ### My Public Data Science Projects:
-- [Analysis of Covid-19 Data in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
-- [Analysing South Africa's Loadshedding](https://github.com/Mpilo-K/loadshedding_south_africa)
-- [Analysing South Africa's Matric Pass Rates](https://github.com/Mpilo-K/matric_south_africa)
-- [Analysing South Africa's Large Companies](https://github.com/Mpilo-K/companies_south_africa)
+- [Covid-19 in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
+- [South Africa's Loadshedding](https://github.com/Mpilo-K/loadshedding_south_africa)
+- [South Africa's Matric Pass Rates](https://github.com/Mpilo-K/matric_south_africa)
+- [South African Large Companies](https://github.com/Mpilo-K/companies_south_africa)
 
 <br>
 
