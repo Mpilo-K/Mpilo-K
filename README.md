@@ -21,6 +21,7 @@
 - [South Africa's Loadshedding](https://github.com/Mpilo-K/loadshedding_south_africa)
 - [South Africa's Matric Pass Rates](https://github.com/Mpilo-K/matric_south_africa)
 - [South African Large Companies](https://github.com/Mpilo-K/companies_south_africa)
+- [South African Population Dynamics](https://github.com/Mpilo-K/population_south_africa)
 
 <br>
 
