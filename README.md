@@ -4,7 +4,6 @@
 - I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University ... 🌱🌳👨‍🎓
 - Although I am a Scientist, I do a lot of hardware and software programming ... 🛠️💻📊
 - I love learning and teaching skills ... 📖👨‍🏫
-
 <br />
 
 ### Connect with me:
@@ -12,7 +11,6 @@
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
-
 <br />
 <br />
 
@@ -22,7 +20,6 @@
 - [South Africa's Matric Pass Rates](https://github.com/Mpilo-K/matric_south_africa)
 - [South African Large Companies](https://github.com/Mpilo-K/companies_south_africa)
 - [South African Population Dynamics](https://github.com/Mpilo-K/population_south_africa)
-
 <br>
 
 ### Languages and Tools I use:
@@ -45,3 +42,5 @@
 [twitter]: https://twitter.com/mpilokhumalo1st
 [linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
 [gmail]: mailto:mpilozenzele0@gmail.com
+
+[![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
