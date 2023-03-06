@@ -12,8 +12,6 @@
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
 <br />
-<br />
-
 ### My Public Data Science Projects:
 - [Covid-19 in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
 - [South Africa's Loadshedding](https://github.com/Mpilo-K/loadshedding_south_africa)
@@ -21,6 +19,8 @@
 - [South African Large Companies](https://github.com/Mpilo-K/companies_south_africa)
 - [South African Population Dynamics](https://github.com/Mpilo-K/population_south_africa)
 <br>
+
+[![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
 
 ### Languages and Tools I use:
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
@@ -42,5 +42,3 @@
 [twitter]: https://twitter.com/mpilokhumalo1st
 [linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
 [gmail]: mailto:mpilozenzele0@gmail.com
-
-[![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
