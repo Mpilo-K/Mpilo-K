@@ -10,7 +10,7 @@
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
 <br />
-### My Public Data Science Projects:
+### My Public Data Science/Analytics Projects:
 - [Covid-19 in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
 - [South Africa's Loadshedding](https://github.com/Mpilo-K/loadshedding_south_africa)
 - [South Africa's Matric Pass Rates](https://github.com/Mpilo-K/matric_south_africa)
