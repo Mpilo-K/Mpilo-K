@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![MicrosoftExcel](https://img.shields.io/badge/-MicrosoftExcel-000?&logo=MicrosoftExcel)
