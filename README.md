@@ -4,7 +4,7 @@
 I'm a passionate Data Scientist with a knack for turning complex data into actionable insights. With a strong foundation in statistics, machine learning, and data visualization, I thrive on solving challenging problems and uncovering hidden patterns in data. My experience spans across various domains including [location intelligence, retail, real estate, health & fitness, telecommunications, digital marketing, and more], where I've applied my skills to drive decision-making and optimize processes.
 
 ### Skills:
-- Programming Languages: ![](https://img.shields.io/badge/-Python-000?&logo=Python), ![](https://img.shields.io/badge/-R-000?&logo=R), ![](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+- Programming Languages: ![](https://img.shields.io/badge/-Python-000?&logo=Python), ![](https://img.shields.io/badge/-R-000?&logo=R), ![](https://img.shields.io/badge/-julia-000?&logo=julia), ![](https://img.shields.io/badge/-latex-000?&logo=latex), ![](https://img.shields.io/badge/-sql-000?&logo=sql)
 - Data Analysis & Visualization: ![](https://img.shields.io/badge/-pandas-000?&logo=pandas), ![](https://img.shields.io/badge/-geopandas-000?&logo=geopandas), ![](https://img.shields.io/badge/-folium-000?&logo=folium), ![](https://img.shields.io/badge/-arcgis-000?&logo=arcgis), ![](https://img.shields.io/badge/-numpy-000?&logo=numpy), ![](https://img.shields.io/badge/-matplotlib-000?&logo=matplotlib), ![](https://img.shields.io/badge/-seaborn-000?&logo=seaborn), ![](https://img.shields.io/badge/-plotly-000?&logo=plotly)
 - Machine Learning: Scikit-learn, TensorFlow, Keras, XGBoost
 - Big Data Technologies: Hadoop, Spark
