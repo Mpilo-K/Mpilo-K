@@ -4,7 +4,7 @@
 I'm a passionate Data Scientist with a knack for turning complex data into actionable insights. With a strong foundation in statistics, machine learning, and data visualization, I thrive on solving challenging problems and uncovering hidden patterns in data. My experience spans across various domains including [location intelligence, retail, real estate, health & fitness, telecommunications, digital marketing, and more], where I've applied my skills to drive decision-making and optimize processes.
 
 ### Skills:
-- Programming Languages: Python, ![R](https://img.shields.io/badge/-R-000?&logo=R), SQL
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python), ![R](https://img.shields.io/badge/-R-000?&logo=R), ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
 - Data Analysis & Visualization: Pandas, GeoPandas, Folium, ArcGIS, NumPy, Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn, TensorFlow, Keras, XGBoost
 - Big Data Technologies: Hadoop, Spark
@@ -25,15 +25,11 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 - [South African Population Dynamics](https://github.com/Mpilo-K/population_south_africa)
 <br>
 
-I'm always excited to collaborate on innovative projects and contribute to open-source initiatives. Feel free to explore my repositories and connect with me for any interesting opportunities!
-
 [![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
 
 ### Languages and Tools I use:
-![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
@@ -50,3 +46,5 @@ I'm always excited to collaborate on innovative projects and contribute to open-
 [twitter]: https://twitter.com/mpilokhumalo1st
 [linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
 [gmail]: mailto:mpilozenzele0@gmail.com
+
+I'm always excited to collaborate on innovative projects and contribute to open-source initiatives. Feel free to explore my repositories and connect with me for any interesting opportunities!
