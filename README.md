@@ -1,22 +1,31 @@
-# Hi there, I'm [Mpilo Khumalo][website] 👋
+# Hi there 👋, I'm [Mpilo Khumalo] 
 
 ### About me:
-- I’m currently doing a PhD in Forest Science (Ecophysiology) at Stellenbosch University ... 🌱🌳👨‍🎓
-- Although I am a Scientist, I do a lot of hardware and software programming ... 🛠️💻📊
-- I love learning and teaching skills ... 📖👨‍🏫
+I'm a passionate Data Scientist with a knack for turning complex data into actionable insights. With a strong foundation in statistics, machine learning, and data visualization, I thrive on solving challenging problems and uncovering hidden patterns in data. My experience spans across various domains including [location intelligence, retail, real estate, health & fitness, telecommunications, digital marketing, and more], where I've applied my skills to drive decision-making and optimize processes.
+
+### Skills:
+- Programming Languages: Python, ![R](https://img.shields.io/badge/-R-000?&logo=R), SQL
+- Data Analysis & Visualization: Pandas, GeoPandas, Folium, ArcGIS, NumPy, Matplotlib, Seaborn, Plotly
+- Machine Learning: Scikit-learn, TensorFlow, Keras, XGBoost
+- Big Data Technologies: Hadoop, Spark
+- Database Management: MySQL, PostgreSQL, MongoDB, Databriks, AWS Redshift, GCP Big Query
+- Tools: Jupyter, Power BI, Git,
+
 ### Connect with me:
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
+
 <br />
-### My Public Data Science/Analytics Projects:
+### Projects:
 - [Covid-19 in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
 - [South Africa's Loadshedding](https://github.com/Mpilo-K/loadshedding_south_africa)
 - [South Africa's Matric Pass Rates](https://github.com/Mpilo-K/matric_south_africa)
 - [South African Large Companies](https://github.com/Mpilo-K/companies_south_africa)
 - [South African Population Dynamics](https://github.com/Mpilo-K/population_south_africa)
 <br>
+
+I'm always excited to collaborate on innovative projects and contribute to open-source initiatives. Feel free to explore my repositories and connect with me for any interesting opportunities!
 
 [![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
 
