@@ -5,8 +5,8 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 
 ### Skills:
 - Programming Languages: ![](https://img.shields.io/badge/-Python-000?&logo=Python), ![](https://img.shields.io/badge/-R-000?&logo=R), ![](https://img.shields.io/badge/-julia-000?&logo=julia), ![](https://img.shields.io/badge/-latex-000?&logo=latex) 
-- Data Analysis & Visualization: ![](https://img.shields.io/badge/-pandas-000?&logo=pandas), ![](https://img.shields.io/badge/-geopandas-000?&logo=geopandas), ![](https://img.shields.io/badge/-folium-000?&logo=folium), ![](https://img.shields.io/badge/-arcgis-000?&logo=arcgis), ![](https://img.shields.io/badge/-numpy-000?&logo=numpy), ![](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib), ![](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn), ![](https://img.shields.io/badge/-plotly-000?&logo=plotly)
-- Machine Learning: ![](https://img.shields.io/badge/-scikit-learn-000?&logo=scikit-learn), ![](https://img.shields.io/badge/-tensorflow-000?&logo=tensorflow), ![](https://img.shields.io/badge/-keras-000?&logo=keras), ![](https://img.shields.io/badge/-xgboost-000?&logo=xgboost)
+- Data Analysis & Visualization: ![](https://img.shields.io/badge/-pandas-000?&logo=pandas), ![](https://img.shields.io/badge/-geopandas-000?&logo=geopandas), ![](https://img.shields.io/badge/-folium-000?&logo=folium), ![](https://img.shields.io/badge/-arcgis-000?&logo=arcgis), ![](https://img.shields.io/badge/-numpy-000?&logo=numpy), ![](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib), ![](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn), ![](https://img.shields.io/badge/-plotly-000?&logo=plotly), ![](https://img.shields.io/badge/-QGIS-000?&logo=QGIS)
+- Machine Learning: ![](https://img.shields.io/badge/-scikit-learn-000?&logo=scikit-learn), ![](https://img.shields.io/badge/-tensorflow-000?&logo=tensorflow), ![](https://img.shields.io/badge/-keras-000?&logo=keras)
 - Big Data Technologies: ![](https://img.shields.io/badge/-hadoop-000?&logo=hadoop), ![](https://img.shields.io/badge/-spark-000?&logo=spark)
 - Database Management: ![](https://img.shields.io/badge/-mysql-000?&logo=mysql), ![](https://img.shields.io/badge/-postgresql-000?&logo=postgresql), ![](https://img.shields.io/badge/-databriks-000?&logo=databriks), ![](https://img.shields.io/badge/-redshift-000?&logo=redshift), ![](https://img.shields.io/badge/-bigquery-000?&logo=bigquery)
 - Tools: ![](https://img.shields.io/badge/-jupyter-000?&logo=jupyter), ![](https://img.shields.io/badge/-powerbi-000?&logo=powerbi), ![](https://img.shields.io/badge/-git-000?&logo=git)
@@ -27,20 +27,7 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 
 [![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
 
-### Languages and Tools I use:
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![MicrosoftExcel](https://img.shields.io/badge/-MicrosoftExcel-000?&logo=MicrosoftExcel)
-![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
-![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![ImageJ](https://img.shields.io/badge/-ImageJ-000?&logo=ImageJ)
-![QGIS](https://img.shields.io/badge/-QGIS-000?&logo=QGIS)
+
 
 [website]: https://mpilokhumalo.com
 [twitter]: https://twitter.com/mpilokhumalo1st
