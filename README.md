@@ -1,6 +1,5 @@
 # Hi there 👋, I'm [Mpilo Khumalo] 
 
-### About me:
 I'm a passionate Data Scientist with a knack for turning complex data into actionable insights. With a strong foundation in statistics, machine learning, and data visualization, I thrive on solving challenging problems and uncovering hidden patterns in data. My experience spans across various domains including [location intelligence, retail, real estate, health & fitness, telecommunications, digital marketing, and more], where I've applied my skills to drive decision-making and optimize processes.
 
 ### Skills:
