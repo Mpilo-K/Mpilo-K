@@ -15,6 +15,12 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
+
+[website]: https://mpilokhumalo.com
+[twitter]: https://twitter.com/mpilokhumalo1st
+[linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
+[gmail]: mailto:mpilozenzele0@gmail.com
+
 <br>
 
 
@@ -25,11 +31,6 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 - [South African Large Companies](https://github.com/Mpilo-K/companies_south_africa)
 - [South African Population Dynamics](https://github.com/Mpilo-K/population_south_africa)
 
-[![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
-
-[website]: https://mpilokhumalo.com
-[twitter]: https://twitter.com/mpilokhumalo1st
-[linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
-[gmail]: mailto:mpilozenzele0@gmail.com
-
 I'm always excited to collaborate on innovative projects and contribute to open-source initiatives. Feel free to explore my repositories and connect with me for any interesting opportunities!
+
+[![Mpilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpilo-K&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mpilo-K/github-readme-stats)
