@@ -9,7 +9,7 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 - Machine Learning: ![](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikitlearn), ![](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow), ![](https://img.shields.io/badge/-Keras-000?&logo=keras)
 - Big Data Technologies: ![](https://img.shields.io/badge/-hadoop-000?&logo=Hadoop), ![](https://img.shields.io/badge/-Spark-000?&logo=spark)
 - Database Management: ![](https://img.shields.io/badge/-MySQL-000?&logo=mysql), ![](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql), ![](https://img.shields.io/badge/-Databriks-000?&logo=databriks), ![](https://img.shields.io/badge/-redshift-000?&logo=Redshift), ![](https://img.shields.io/badge/-BigQuery-000?&logo=bigquery)
-- Tools: ![](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter), ![](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi), ![](https://img.shields.io/badge/-GIT-000?&logo=git)
+- Tools: ![](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter), ![](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi), ![](https://img.shields.io/badge/-GoogleSheets-000?&logo=googlesheets), ![](https://img.shields.io/badge/-GIT-000?&logo=git)
 - Generative AI: ![](https://img.shields.io/badge/-OpenAI-000?&logo=openai), ![](https://img.shields.io/badge/-Claude-000?&logo=anthropic), ![](https://img.shields.io/badge/-Bedrock-000?&logo=aws)
 
 ### Connect with me:
