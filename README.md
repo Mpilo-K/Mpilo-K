@@ -10,6 +10,7 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 - Big Data Technologies: ![](https://img.shields.io/badge/-hadoop-000?&logo=hadoop), ![](https://img.shields.io/badge/-spark-000?&logo=spark)
 - Database Management: ![](https://img.shields.io/badge/-mysql-000?&logo=mysql), ![](https://img.shields.io/badge/-postgresql-000?&logo=postgresql), ![](https://img.shields.io/badge/-databriks-000?&logo=databriks), ![](https://img.shields.io/badge/-redshift-000?&logo=redshift), ![](https://img.shields.io/badge/-bigquery-000?&logo=bigquery)
 - Tools: ![](https://img.shields.io/badge/-jupyter-000?&logo=jupyter), ![](https://img.shields.io/badge/-powerbi-000?&logo=powerbi), ![](https://img.shields.io/badge/-git-000?&logo=git)
+- Generative AI: ![](https://img.shields.io/badge/-OpenAI-000?&logo=openai), ![](https://img.shields.io/badge/-Claude-000?&logo=anthropic)
 
 ### Connect with me:
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
