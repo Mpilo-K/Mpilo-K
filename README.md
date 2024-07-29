@@ -15,6 +15,8 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
+<br>
+
 
 ### Projects:
 - [Covid-19 in South Africa](https://github.com/Mpilo-K/covid-19_south_africa)
