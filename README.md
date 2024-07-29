@@ -6,7 +6,7 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 ### Skills:
 - Programming Languages:
 ![](https://img.shields.io/badge/-Python-000?&logo=Python), ![](https://img.shields.io/badge/-R-000?&logo=R), ![](https://img.shields.io/badge/-SQL-000?&logo=SQL)
-- Data Analysis & Visualization: Pandas, GeoPandas, Folium, ArcGIS, NumPy, Matplotlib, Seaborn, Plotly
+- Data Analysis & Visualization: ![](https://img.shields.io/badge/-pandas-000?&logo=pandas), ![](https://img.shields.io/badge/-geopandas-000?&logo=geopandas), ![](https://img.shields.io/badge/-folium-000?&logo=folium), ArcGIS, NumPy, Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn, TensorFlow, Keras, XGBoost
 - Big Data Technologies: Hadoop, Spark
 - Database Management: MySQL, PostgreSQL, MongoDB, Databriks, AWS Redshift, GCP Big Query
