@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Mpilo Khumalo] 
 
-I'm a passionate Data Scientist with a knack for turning complex data into actionable insights. With a strong foundation in statistics, machine learning, and data visualization, I thrive on solving challenging problems and uncovering hidden patterns in data. My experience spans across various domains including [location intelligence, retail, real estate, health & fitness, telecommunications, digital marketing, and more], where I've applied my skills to drive decision-making and optimize processes.
+I'm a passionate Data Scientist with a knack for turning complex data into actionable insights. With a strong foundation in statistics, machine learning, and data visualisation, I thrive on solving challenging problems and uncovering hidden patterns in data. My experience spans across various domains including [supply chain, logistics, location intelligence, retail, real estate, health & fitness, telecommunications, digital marketing, and more], where I've applied my skills to drive decision-making and optimize processes.
 
 ### Skills:
 - Programming Languages: ![](https://img.shields.io/badge/-Python-000?&logo=Python), ![](https://img.shields.io/badge/-R-000?&logo=R),  ![](https://img.shields.io/badge/-SQL-000?&logo=database), ![](https://img.shields.io/badge/-Julia-000?&logo=julia), ![](https://img.shields.io/badge/-Latex-000?&logo=latex), ![](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
@@ -13,11 +13,9 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 
 ### Connect with me:
 [<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 [website]: https://mpilokhumalo.com
-[twitter]: https://twitter.com/mpilokhumalo1st
 [linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
 [gmail]: mailto:mpilozenzele0@gmail.com
 
